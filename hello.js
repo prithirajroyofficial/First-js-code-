@@ -22,3 +22,5 @@ else if (mark<100){
     console.log( " tui A+ paicis ")
 }
 
+var MYname = "Prithiraj Roy Tanmoy ";
+console.log(MYname);
